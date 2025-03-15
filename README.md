@@ -1,1 +1,1 @@
-# FM4Z3B_Komplex
+Komplex feladat/Szakdoga
