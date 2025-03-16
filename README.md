@@ -1,3 +1,3 @@
-Komplex feladat/Szakdoga
+Komplex tervezés/Szakdoga
 
 Pogácsás Benedek (FM4Z3B)
